@@ -287,11 +287,14 @@ Toronto-Island-Ferry-Analytics-PowerBI/
 
 ### Ferry Overview
 
-<img width="1227" height="692" alt="image" src="https://github.com/user-attachments/assets/20015ad4-6555-4114-bbf9-b88517865c32" />
+<img width="1242" height="697" alt="image" src="https://github.com/user-attachments/assets/7be6f57b-2cea-41e3-89e1-963ad7386556" />
+
+
 
 ### Ferry Performance & Demand Analysis
 
-<img width="1006" height="557" alt="image" src="https://github.com/user-attachments/assets/57229606-ec52-4518-855e-47c12d8da884" />
+<img width="1236" height="688" alt="image" src="https://github.com/user-attachments/assets/4e786c0a-a3b9-4ff6-a8c4-f45bf373c1e8" />
+
 
 ---
 
