@@ -344,9 +344,7 @@ The dashboard provides a centralized view of ferry ticket transaction performanc
 
 ### Satwik Srivastava
 
-**BCA – Data Science & AI**
-**BCA DS - 26**
-**05 / 1250258395**
+### LinkedIn:- https://www.linkedin.com/in/satwik-srivastava-89a48b371
 
 ## ⭐ Project
 
